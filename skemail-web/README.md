@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Skiff Mail frontend uses the [Next.js](https://nextjs.org/docs) framework, which build on top of React and adds features like [file-based routing](https://nextjs.org/docs/routing/introduction), a [built-in API](https://nextjs.org/docs/routing/introduction), [server-side rendering](https://nextjs.org/docs/basic-features/data-fetching/get-server-side-props), and many others.
+The Skiff Mail frontend uses the [Next.js](https://nextjs.org/docs) framework, which builds on top of React and adds features like [file-based routing](https://nextjs.org/docs/routing/introduction), a [built-in API](https://nextjs.org/docs/routing/introduction), [server-side rendering](https://nextjs.org/docs/basic-features/data-fetching/get-server-side-props), and many others.
 
 ## Dev Setup
 
